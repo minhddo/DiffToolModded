@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<tree type="App" >
+	<tree type="App" >
+	<tree type="Const" name="HOL.conj" type_signature="Type" type_name="fun" ></tree>
+	<tree type="Free" name="a" type_signature="Type" type_name="HOL.bool" ></tree>
+</tree>
+	<tree type="Free" name="b" type_signature="Type" type_name="HOL.bool" ></tree>
+</tree>
+
